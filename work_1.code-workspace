@@ -1,14 +1,10 @@
 {
-	"folders": [
-		{
-			"path": "..\\Users\\pratikshab\\Documents\\GitHub"
-		},
-		{
-			"path": "..\\Users\\pratikshab\\Downloads\\SimpleCalculator-master"
-		},
-		{
-			"path": "."
-		}
-	],
-	"settings": {}
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "..\\Users\\pratikshab\\Downloads\\SimpleCalculator-master"
+        }
+    ]
 }
